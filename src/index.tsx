@@ -214,7 +214,7 @@ export default class InteractUpload extends React.Component<Props> {
           footer={null}
           onCancel={this.handleCancel}
         >
-          <img alt="example" style={{ width: "100%" }} src={previewImage} />
+          <img alt="preview_img" style={{ width: "100%" }} src={previewImage} />
         </Modal>
       </div>
     );
