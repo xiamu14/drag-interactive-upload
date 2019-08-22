@@ -1,0 +1,9 @@
+.ant-upload-list-item {
+  touch-action: none;
+}
+
+.interact_upload--box {
+  .ant-upload-list-picture-card .ant-upload-list-item-actions {
+    top: 70%;
+  }
+}
